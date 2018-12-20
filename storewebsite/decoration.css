@@ -1,0 +1,13 @@
+td{
+  width:300px;
+  height:200px;
+  border:1px solid black;
+  padding: 10px;
+}
+body{
+  background-color: black;
+}
+h1{
+  color: red;
+  font-family: 'Roboto Condensed', sans-serif;
+}
